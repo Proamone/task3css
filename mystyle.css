@@ -1,0 +1,28 @@
+.div1{
+    width: 400px;
+    height: 400px;
+    color: blue;
+    background-image: url(OIP\ \(2\).jpg);
+    background-repeat: no-repeat;
+
+
+}
+.div2{
+    width: 400px;
+    height: 400px;
+    background-image: url(OIP\ \(1\).jpg);
+    background-repeat: repeat-y;
+    background-position: right;
+
+
+}
+.div3{
+    width: 400px;
+    height: 400px;
+    color: blue;
+    background-image: url(OIP.jpg);
+    background-repeat: repeat-x;
+    background-position: bottom;
+
+
+}
